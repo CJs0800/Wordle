@@ -1,0 +1,47 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+}
+
+.keyboard-container {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 3px;
+    width: 25vw;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.key {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border: 1px solid gray;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: top;
+}
+
+.zoneEssai {
+    margin-top: 15vh;
+}
+
+.navBar {
+    font-size: 110%;
+    display: inline-block;
+    width: 100%;
+    background-color: azure;
+    justify-content: center;
+    align-items: center;
+    padding: 1%
+}
