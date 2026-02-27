@@ -7,7 +7,8 @@
     "build": "vue-cli-service build",
     "test": "./node_modules/.bin/cypress run",
     "test:headed": "./node_modules/.bin/cypress run --headed",
-    "test:interactive": "./node_modules/.bin/cypress open"
+    "test:interactive": "./node_modules/.bin/cypress open",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^0.24.0",
@@ -23,7 +24,8 @@
     "@vue/compiler-sfc": "^3.2.20",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.1.0",
-    "eslint-plugin-vue": "^7.20.0"
+    "eslint-plugin-vue": "^7.20.0",
+    "gh-pages": "^6.3.0"
   },
   "eslintConfig": {
     "root": true,
