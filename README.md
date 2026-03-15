@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646cff?logo=vite)](https://vitejs.dev/)
 [![Platform](https://img.shields.io/badge/Platform-Web-green)](#)
 [![Responsive](https://img.shields.io/badge/UI-Responsive-green)](#)
-[![Version](https://img.shields.io/badge/Version-1.0.1-success)](https://github.com/CJs0800/Wordle/releases/tag/1.0.1)
+[![Version](https://img.shields.io/badge/Version-1.0.2-success)](https://github.com/CJs0800/Wordle/releases/tag/1.0.2)
 [![Game](https://img.shields.io/badge/Game-Wordle%20Clone-orange)](https://fr.wikipedia.org/wiki/Wordle)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)](https://en.wikipedia.org/wiki/All_rights_reserved)
 
@@ -74,6 +74,7 @@ npm run test
 
 > All notable changes to this project will be documented in this file.
 
+#### [[1.0.2]](https://github.com/CJs0800/Wordle/releases/tag/1.0.2) - LICENCE & README Update
 #### [[1.0.1]](https://github.com/CJs0800/Wordle/releases/tag/1.0.1) - README Update
 #### [[1.0.0]](https://github.com/CJs0800/Wordle/releases/tag/1.0.0) - Runnable Version
 
@@ -158,6 +159,7 @@ npm run test
 
 > Toutes les modifications importantes apportées à ce projet seront documentées dans ce fichier.
 
+#### [[1.0.2]](https://github.com/CJs0800/Wordle/releases/tag/1.0.2) - LICENCE & README Update
 #### [[1.0.1]](https://github.com/CJs0800/Wordle/releases/tag/1.0.1) - README Update
 #### [[1.0.0]](https://github.com/CJs0800/Wordle/releases/tag/1.0.0) - Runnable Version
 
@@ -182,7 +184,7 @@ Développé par :
 
 ## 📄 License
 
-© 2026 CJs0800. All Rights Reserved.
+**© 2026 CJs0800. All Rights Reserved.**
 
 This project is publicly accessible for viewing purposes only.  
 No part of this code may be copied, modified, distributed, or reused without explicit permission from the author.
