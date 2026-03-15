@@ -14,10 +14,10 @@ Any unauthorized reproduction, distribution, or modification of the code, in who
 
 For permission requests or inquiries, please contact:
 
-Corentin JÉRÉ
-Email: [corentinjere@gmail.com](mailto:corentinjere@gmail.com)
-GitHub: https://github.com/CJs0800
-LinkedIn : https://www.linkedin.com/in/corentin-jere/
+Corentin JÉRÉ \
+Email: [corentinjere@gmail.com](mailto:corentinjere@gmail.com) \
+GitHub: https://github.com/CJs0800 \
+LinkedIn : https://www.linkedin.com/in/corentin-jere/ 
 
 ---
 
